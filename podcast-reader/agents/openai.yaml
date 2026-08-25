@@ -1,0 +1,4 @@
+interface:
+  display_name: "Podcast Reader"
+  short_description: "Follow, summarize, and question podcasts locally"
+  default_prompt: "Use $podcast-reader to check my podcast inbox and analyze an episode with timestamped citations."
