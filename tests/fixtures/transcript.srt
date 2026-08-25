@@ -1,0 +1,11 @@
+1
+00:00:01,000 --> 00:00:04,000
+The inbox only synchronizes public metadata.
+
+2
+00:00:05,000 --> 00:00:09,000
+Full analysis runs only after the user selects an episode.
+
+3
+00:00:10,000 --> 00:00:14,000
+This keeps model usage on the user's own account.
